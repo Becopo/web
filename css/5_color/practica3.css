@@ -1,0 +1,3 @@
+body > span:nth-child(1) {color: red;}
+body > span:nth-child(2) {font-weight:600;color: red;}
+body > span:nth-child(3) {color: white;}
