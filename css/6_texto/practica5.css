@@ -1,0 +1,3 @@
+body > span:nth-child(1) {font-weight: 600;}
+body > p > span:nth-child(1) {font-weight: 600;}
+body > p > span:nth-child(2) {background-color: gold;}

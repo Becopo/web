@@ -1,0 +1,13 @@
+
+#Titulo {font-family: "1";}
+
+#Prologo {font-style: italic;}
+#p2 {font-family: "2";}
+@font-face {
+    font-family:"1" ;
+    src: url("../fuentes/Rush\ Turbo.ttf");
+}
+@font-face {
+    font-family:"2" ;
+    src: url("../fuentes/Oswald-Bold.ttf");
+}
