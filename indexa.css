@@ -1,0 +1,10 @@
+header {text-align: center; padding: 15px; font-weight: bold;}
+ul {list-style-type: none;}
+    
+    .Menu li{
+    display: inline;
+    }
+    
+
+.css {float: right; margin-right: 40rem; margin-top: 3rem;}
+.html {float: left; margin-left: 40rem; margin-top: 3rem;}
