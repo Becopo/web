@@ -1,0 +1,33 @@
+body {background-color:bisque;}
+.titul {margin-left: 8rem; margin-top: 8rem;}
+.plans {
+    display: flex;
+    margin-left: 8rem;
+    }
+    
+    .plans p{
+    margin: 5rem;
+    }
+    .Suscribete{
+        display: block;
+        background-color:rgb(34, 121, 133);
+        color: white;
+        font-size: 1rem;
+        border: 1px solid black;
+        padding: 1rem;
+        text-decoration: none
+        }
+        
+        .plan {
+        display: block;
+        margin-top: 1rem;
+        color:rgb(34, 121, 133);
+        font-size: 1rem;
+        text-decoration: none;
+        }
+img {width: 700px;
+height: 300px; float: right; margin-right: 10rem; }
+footer{background-color: aqua;}
+    
+
+ 

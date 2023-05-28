@@ -1,0 +1,5 @@
+
+img{
+border: 5px solid;
+border-image: linear-gradient(rgb(0, 225, 255), #ff0000) 1;
+}

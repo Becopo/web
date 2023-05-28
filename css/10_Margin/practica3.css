@@ -1,0 +1,32 @@
+.superior{
+    width: 100%;
+    height: 400px;
+    background-image: url(/IMAGENES/fondo\ negro.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding:10px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+    h1{color: white;}
+    #uno  {color: white;}
+    .inferior{
+        width: 100%;
+        height: 400px;
+        background-image: url(/IMAGENES/fondo\ negro.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        padding:10px ;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        }
+        h2{color: white;}
+        #dos  {color: white;}
