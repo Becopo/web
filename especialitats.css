@@ -1,1 +1,15 @@
-p {text-align: center;}
+p {text-align: center; color: white;}
+ul, li{ display: inline-block; padding: 0px 20px;} 
+a{ color:white ; text-decoration: none;}
+a:hover{ color:aqua}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/IMAGENES/fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+  
+}
+footer{background-color: rgb(102, 94, 94); position: absolute; bottom: 0; width: 100%; padding: 1e;}
+.redes {text-align: center;}

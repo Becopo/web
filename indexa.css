@@ -1,4 +1,28 @@
 
 
-.css {float: right; margin-right: 40rem; margin-top: 3rem;}
-.html {float: left; margin-left: 40rem; margin-top: 3rem;}
+.css { color: white;padding: 10px; margin: 0 5px;}
+.html { color: white;padding: 10px; margin: 0 5px;}
+ul, li{ display: inline-block; padding: 0px 20px; } 
+.Menu{ color:white ; text-decoration: none;}
+.Menu:hover{ color:aqua}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/IMAGENES/fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    display: grid;
+	min-height: 100vh;
+	grid-template-rows: auto 1fr auto;
+    
+   
+   
+}
+.tot{ display: flex; justify-content: center;padding: 10px; margin: 0 5px; }
+.links {color: white;}
+.links:hover{color: wheat;}
+footer{background-color: rgb(102, 94, 94);}
+.columna{padding: 10px; margin: 0px 60px;}
+.redes {text-align: center;}
+p{color: white}

@@ -1,1 +1,38 @@
-h1 {text-align: center;}
+
+
+
+    form{padding: 50px 55px;box-shadow: 0 0 20px rgba (0, 0, 0, 0.2); border-radius: 20px; text-align: center;
+    width: 340px;}
+
+    .input-group {display: flex; flex-direction: column; text-align: left;}
+    
+    h2{ color: black; font-size: 35px; }
+
+    label{color:  black; font-size: 15px;font-weight: 600;margin-bottom: 15px;}
+    input, textarea{padding: 10px 25px; border-radius: 25px; margin-bottom: 2px;background-color: white;border: 2px solid white;
+    color: black;}
+   header {text-align: center;}
+  
+   .login {width:300px ;position: absolute; top:5%; left: 40%;  }
+   .btn:hover {background-color: black; color: white;}
+   
+   ul, li{ display: inline-block; padding: 0px 20px;} 
+   a{ color:white ; text-decoration: none;}
+a:hover{ color:aqua}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/IMAGENES/fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    display: grid;
+	min-height: 100vh;
+	grid-template-rows: auto 1fr auto;
+}
+::placeholder {color: black}
+p{color: white}
+h2{color:white}
+footer{background-color: rgb(102, 94, 94); position: absolute; bottom: 0; width: 100%; padding: 1e;}
+.redes {text-align: center;}
+p{color: white}
