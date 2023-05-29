@@ -22,7 +22,7 @@ a:hover{ color:aqua}
 body{
     margin: 0;
     padding: 0;
-    background: url(/IMAGENES/fondo.jpg);   
+    background: url(web/IMAGENES/fondo.jpg);   
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
@@ -35,4 +35,3 @@ p{color: white}
 h2{color:white}
 footer{background-color: rgb(102, 94, 94); position: absolute; bottom: 0; width: 100%; padding: 1e;}
 .redes {text-align: center;}
-p{color: white}
